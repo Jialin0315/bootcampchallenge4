@@ -22,4 +22,4 @@
 ## Summary
 
 
- -T
+ -The total student number, percent passing math, percent passing reading and overall percent passing both math and reading has changed after replaced all 9th grade students' scores with NaNs.
